@@ -69,7 +69,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #eeead9;
 }
 
 [tabindex="-1"]:focus {
@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #c2f6ea;
+  color: #8BA3C7;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #7fecd3;
+  color: #8BA3C7;
   text-decoration: none;
 }
 
@@ -11811,4 +11811,20 @@ section .section-secondary-title {
   font-size: 17px;
   opacity: .7;
   margin-bottom: 15px;
+}
+
+@font-face {
+  font-family: lishu;
+  src: url(lishu.ttf);
+}
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container_cooking {
+  position: relative;
+  text-align: center;
+  color: white;
 }
