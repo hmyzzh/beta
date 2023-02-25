@@ -30,3 +30,9 @@ $(document).ready(function(){
         } 
     });
 });
+
+function ImgID_finder(sw,dictt) {
+  var pic;
+  pic=dictt[sw]
+  document.getElementById(sw).src = pic;
+}
