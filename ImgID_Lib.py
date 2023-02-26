@@ -1,0 +1,13 @@
+dictt={
+    "IMG0001":"http://i.endpot.com/image/SGBF5/MStRdmdPRFIrRjFhdklMdTRsUm94eFdxMWNGa0RKeGcvdVBZQmJNd0gvND0.jpg",
+    "IMG0002":"https://i.endpot.com/image/5N7AM/IMG_0389.JPEG",
+    "Post_20230129_03":"https://live.staticflickr.com/65535/52711452795_b5233186ec_k.jpg",
+    "Post_20230129_02":"https://live.staticflickr.com/65535/52711514698_eae834868b_h.jpg",
+    "Post_20230129_01":"https://live.staticflickr.com/65535/52711036546_cd09af0fab_h.jpg",
+    "Post_20221022_01":"https://live.staticflickr.com/65535/52711961945_ece37d5b89_k.jpg",
+    "Post_20221022_02":"https://live.staticflickr.com/65535/52711545221_1a997f65fc_k.jpg",
+    "Post_20221022_03":"https://live.staticflickr.com/65535/52712021173_53f3b57015_k.jpg",
+    "Post_20221022_04":"https://live.staticflickr.com/65535/52711961870_5b60dc4cb6_k.jpg",
+    "Post_20221022_05":"https://live.staticflickr.com/65535/52711545146_8448015893_k.jpg",
+    "Post_20221022_06":"https://live.staticflickr.com/65535/52711806124_257a5c0548_k.jpg"
+}
