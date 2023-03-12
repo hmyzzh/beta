@@ -44,5 +44,7 @@ dictt={
     "Post_20211010_15":"https://live.staticflickr.com/65535/52711192152_2100b7c4ec_k.jpg",
     "Post_20211010_16":"https://live.staticflickr.com/65535/52711974929_97b2971718_k.jpg",
     "Post_20211010_17":"https://live.staticflickr.com/65535/52712191813_d9b1377a63_k.jpg",
+    "video_boston_troy":"https://live.staticflickr.com/65535/52743311186_0d362df580_h.jpg",
+    "video_NEA":"https://live.staticflickr.com/65535/52743563579_8c4dd0a4aa_k.jpg",
     
 }
