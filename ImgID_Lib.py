@@ -26,6 +26,15 @@ dictt={
     "Post_20230111_08":"https://live.staticflickr.com/65535/52742528957_53dc36c4c9_k.jpg",
     "Post_20230111_09":"https://live.staticflickr.com/65535/52743297109_31c5cbcf86_k.jpg",
     "Post_20230111_10":"https://live.staticflickr.com/65535/52743459615_26e7c5c999_h.jpg",
+    "Post_20230111_11":"https://live.staticflickr.com/65535/52744122184_fa8757151a_k.jpg",
+    "Post_20230111_12":"https://live.staticflickr.com/65535/52744361868_502858b50a_k.jpg",
+    "Post_20230111_13":"https://live.staticflickr.com/65535/52744287490_689475d14c_k.jpg",
+    "Post_20230111_14":"https://live.staticflickr.com/65535/52743354557_0d91de2bc1_k.jpg",
+    "Post_20230111_15":"https://live.staticflickr.com/65535/52743354127_366e738b25_k.jpg",
+    "Post_20230111_16":"https://live.staticflickr.com/65535/52744286720_5555cd5219_k.jpg",
+    "Post_20230111_17":"https://live.staticflickr.com/65535/52744360878_9865471101_k.jpg",
+    "Post_20230111_18":"https://live.staticflickr.com/65535/52743353902_30263a41f3_k.jpg",
+
 
     # Denver zoo
     "Post_20230129_03":"https://live.staticflickr.com/65535/52711452795_b5233186ec_k.jpg",
